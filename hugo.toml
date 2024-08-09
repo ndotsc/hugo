@@ -1,0 +1,4 @@
+baseURL = 'https://blog.ndots.cn/'
+languageCode = 'zh-cn'
+title = 'ndots blog'
+theme = 'ananke'
