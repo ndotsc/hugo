@@ -1,0 +1,2 @@
+# hugo
+first hugo site
